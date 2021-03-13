@@ -44,6 +44,8 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j27raonvym7a4v3iqq7qrt3o2e&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <br />
 
 ----
